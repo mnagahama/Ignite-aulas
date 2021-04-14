@@ -17,7 +17,6 @@ assim como, as ferramentas Webpack, Babel, Webpack Dev server, SASS, Source Map 
     
 ## Desafios
 :heavy_check_mark: [Desafio: Conceito do React](https://github.com/mnagahama/desafio01-trilha--react)
-<p>:white_large_square: Desafio: Componentizando a aplicação </p>
 
 ## Capitulo 2 - Primeira Aplicação web com ReactJs
 <p>Neste capítulo será contruído uma aplicação web, utilizando as ferramentas como Styled components, MirageJS, ContextAPI, hooks, Axios, entre outros</p>
@@ -31,4 +30,3 @@ assim como, as ferramentas Webpack, Babel, Webpack Dev server, SASS, Source Map 
     
 ## Desafios
 <p>:white_large_square: Desafio: Criando um hook de carrinho de compras</p>
-<p>:white_large_square: Desafio: refatoring de classes e Typescript </p>
